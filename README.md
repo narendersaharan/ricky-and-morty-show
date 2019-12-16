@@ -1,5 +1,8 @@
 To run this project download it from github repository
 
+### `clone repo`
+Run the command <b>git clone https://github.com/narendersaharan/ricky-and-morty-show.git</b> on command propmt
+
 ### `npm start`
 
 Navigate to the directory where package.json is present<br/>
