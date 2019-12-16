@@ -1,0 +1,22 @@
+.SearchSort{
+    margin-top: 3rem;
+}
+
+.SearchLabel{
+    color: gray;
+    font-weight: normal;
+}
+
+.SearchButton{
+    display: none;
+}
+
+.NoPadding{
+    padding: 0;
+}
+
+@media (min-width: 768px){
+    .SearchButton{
+        display: block;
+    }
+}

@@ -1,0 +1,18 @@
+.Character{
+    position: relative;
+}
+
+.CharacterImage{
+    width: 100%;
+    border-radius: 10px 10px 0 0;
+    height: 226px;
+}
+
+.CharacterName{
+    background: rgba(0, 0, 0, 0.5);
+    padding: 1rem;
+    color: white;
+    position: absolute;
+    bottom: 0;
+    width: 100%;
+}

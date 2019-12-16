@@ -1,0 +1,12 @@
+.Filter{
+    border: 1px solid black;
+    margin: 1rem auto;
+    padding: 1rem;
+    min-width: 64%;
+}
+
+@media (min-width: 768px){
+    .Filter{
+        display: inline-block;
+    }
+}

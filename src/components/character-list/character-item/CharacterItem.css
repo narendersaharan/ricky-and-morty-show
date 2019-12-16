@@ -1,0 +1,11 @@
+.CharacterItem{
+    background: black;
+    padding: 1rem;
+    margin: 5px;
+}
+
+@media (min-width: 768px){
+    .CharacterItem{
+        margin: 0;
+    }
+}

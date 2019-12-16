@@ -1,0 +1,8 @@
+.SelectedFilter{
+    margin: 0.5rem;
+}
+
+.SelectedFilter:focus,
+.SelectedFilter:active{
+    outline: none;
+}

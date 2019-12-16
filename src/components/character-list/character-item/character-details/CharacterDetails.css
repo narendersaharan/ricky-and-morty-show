@@ -1,0 +1,29 @@
+.CharacterDetails{
+    overflow-x: auto;
+    background-color: #a9a9a9;
+    padding: 1rem;
+    border-radius: 0 0 10px 10px;
+    height: 310px;
+    overflow-y: hidden;
+}
+
+.Detail{
+    padding-top: 1rem;
+    padding-bottom: 1rem;
+    border-bottom: 1px solid lightgray;
+}
+
+.DetailName{
+    display: inline-block;
+    width: 20%;
+    vertical-align: middle;
+    color: #d3d3d3;
+}
+
+.DetailContent{
+    display: inline-block;
+    width: 75%;
+    text-align: right;
+    vertical-align: middle;
+    color: yellow;
+}
